@@ -1,0 +1,12 @@
+/* FILEPATH: /Ubuntu-20.04/home/unixhound/first_ubuntu_folder/styles.css */
+
+.container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 20px;
+}
+
+.item {
+    background-color: #f2f2f2;
+    padding: 20px;
+}
