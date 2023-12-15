@@ -4,7 +4,9 @@
 
 ## Description
 
-A brief description of your project goes here.  This is a "code-along" project from Springboard that covers how to interact with a github repository and local files.  This summary should ONLY appear in the test_branch if I followed the instructions successfuly.
+#### A brief description of your project goes here.  This is a "code-along" project from Springboard that covers how to interact with a github repository and local files.  This summary should ONLY appear in the test_branch if I followed the instructions successfuly.
+
+#### This is all an evil plan to force me to pratice using the 'git pull' command.
 
 ## Table of Contents
 
