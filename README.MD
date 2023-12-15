@@ -4,7 +4,7 @@
 
 ## Description
 
-A brief description of your project goes here.
+A brief description of your project goes here.  This is a "code-along" project from Springboard that covers how to interact with a github repository and local files.  This summary should ONLY appear in the test_branch if I followed the instructions successfuly.
 
 ## Table of Contents
 
